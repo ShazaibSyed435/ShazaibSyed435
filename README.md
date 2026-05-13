@@ -1,140 +1,115 @@
-# Hi, I'm Syed Shazaib Zaheer 👋
+<div align="center">
 
-### Full Stack Developer | MERN • Python Automation • AI-Integrated Systems
+# Hi 👋, I'm Shazaib
 
-I build scalable full-stack applications, automation systems, and real-time platforms using modern JavaScript and Python technologies.
+### Full Stack Developer | MERN Stack Developer | Backend Engineer
 
-Currently working on production-grade SaaS applications, AI workflow systems, WebRTC communication features, and backend automation pipelines.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 1+ year of professional development experience
-* ⚡ Specialized in MERN stack architecture and backend systems
-* 🤖 Building AI-integrated workflows, OCR pipelines, and automation tools
-* 🔐 Interested in scalable backend engineering, system design, and cybersecurity
-* 🌍 Based in Rawalpindi / Islamabad, Pakistan
+💻 Passionate Full Stack Developer focused on building scalable web applications and modern user experiences.
+
+⚡ Working with:
+- MERN Stack
+- REST APIs
+- WhatsApp Integrations
+- Authentication Systems
+- Real-time Applications
+
+🌱 Currently improving:
+- System Design
+- Backend Architecture
+- Performance Optimization
 
 ---
 
-## 🧠 Core Technologies
-
-### Frontend
-
-React.js • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Context API
-
-### Backend & APIs
-
-Node.js • Express.js • REST APIs • JWT Auth • WebSockets • WebRTC
-
-### Databases
-
-MongoDB • MySQL • Sequelize ORM • Query Optimization
-
-### Python & Automation
-
-Python • Selenium • OCR Pipelines • Web Scraping • n8n Automation
-
-### DevOps & Tools
-
-Git • GitHub • Docker • Linux VPS • Nginx • Postman • VS Code
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer — Global Link Pvt Ltd
-
-📍 Rawalpindi, Pakistan | Apr 2025 – Present
-
-* Built and maintained production MERN SaaS applications
-* Developed scalable REST APIs and automation workflows
-* Engineered WebRTC real-time communication systems
-* Built AI-integrated chatbot and workflow automation tools
-* Designed OCR and legal document processing pipelines using Python
-* Managed Linux VPS deployments with Nginx and production hosting
-
-### MERN Stack Developer Intern — Morosoft Labs
-
-📍 Rawalpindi, Pakistan | Nov 2024 – Mar 2025
-
-* Developed full-stack MERN features in agile sprint environments
-* Integrated APIs between React frontend and Node.js backend
-* Debugged and optimized backend systems and database operations
-* Worked in collaborative Git-based development workflows
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 E-Commerce Platform
-
-**React • Redux Toolkit • Bootstrap**
-
-* Responsive frontend architecture
-* Cart management and filtering system
-* Optimized state management with Redux Toolkit
-
----
-
-### 🌐 Social Media Platform
-
-**MERN • Sequelize • MySQL**
-
-* JWT authentication and role-based access
-* Posts, comments, likes, and friend request system
-* Structured backend architecture with scalable APIs
-
----
-
-### 📊 Device Management Dashboard
-
-**React • Node.js • SQL • Python**
-
-* Full CRUD dashboard with advanced table management
-* Backend APIs with Sequelize and SQL optimization
-* Python desktop automation app with executable generation
-
----
-
-### 🤖 AI Workflow Automation System
-
-**Python • n8n • Webhooks**
-
-* Automated messaging and workflow pipelines
-* AI chatbot integrations and event-driven processing
-* Production-ready automation handling large-scale operations
-
----
-
-## 📈 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShazaibSyed435&show_icons=true&theme=tokyonight" />
-</p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShazaibSyed435&theme=tokyonight" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Tech Stack
 
-* 📧 Email: [syedshazaib628@gmail.com](mailto:syedshazaib628@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/syed-shazaib-zaheer-041750329/
-* 🌐 GitHub: https://github.com/ShazaibSyed435
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,mysql,tailwind,bootstrap,html,css,git,github,vscode,firebase" />
 
-## 🤝 Open To
-
-* Full Stack Development Roles
-* Backend Engineering Opportunities
-* AI Automation & SaaS Projects
-* Freelance & Remote Collaboration
+</div>
 
 ---
 
-> “Focused on building real-world systems that scale, automate workflows, and solve business problems.”
+# 🛠️ Tools & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, Next.js, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, MySQL |
+| Authentication | JWT, OAuth |
+| Tools | Git, GitHub, VS Code, Postman |
+| Deployment | Vercel, Render, Railway |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+## 📱 WhatsApp SaaS Platform
+
+Modern WhatsApp marketing and communication platform with:
+
+- WhatsApp Cloud API Integration
+- Contact Management
+- Template Messaging
+- Campaign System
+- Authentication & Roles
+- Media Upload System
+
+### Tech Used
+
+```bash
+Node.js
+Express.js
+MongoDB
+React.js
+Tailwind CSS
+WhatsApp Cloud API
