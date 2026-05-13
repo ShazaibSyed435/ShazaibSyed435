@@ -1,83 +1,140 @@
-# Hi! I'm Syed Shazaib Zaheer 👋  
-A passionate **MERN Stack Developer** with expertise in **MySQL, Sequelize, and MongoDB (Mongoose)**.  
-I love building full-stack applications and designing efficient, scalable solutions.  
+# Hi, I'm Syed Shazaib Zaheer 👋
+
+### Full Stack Developer | MERN • Python Automation • AI-Integrated Systems
+
+I build scalable full-stack applications, automation systems, and real-time platforms using modern JavaScript and Python technologies.
+
+Currently working on production-grade SaaS applications, AI workflow systems, WebRTC communication features, and backend automation pipelines.
 
 ---
 
-## 💡 Interests & Expertise  
+## 🚀 About Me
 
-<table style="border: none; width:100%;">
-<tr style="border: none;">
-<td style="border: none; vertical-align: top;">
-
-- 💻 **MERN Stack Development** | Building scalable full-stack applications  
-- 🗄️ **Databases:** MySQL • Sequelize • MongoDB (Mongoose)  
-- ⚡ **Interests:** Web Development • Databases • Cybersecurity • Problem Solving  
-- 🐍 **Additional Knowledge:** Python (basic to intermediate)  
-
-</td>
-<td style="border: none; text-align: right;">
-
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="400">
-
-</td>
-</tr>
-</table>
-
+* 💼 1+ year of professional development experience
+* ⚡ Specialized in MERN stack architecture and backend systems
+* 🤖 Building AI-integrated workflows, OCR pipelines, and automation tools
+* 🔐 Interested in scalable backend engineering, system design, and cybersecurity
+* 🌍 Based in Rawalpindi / Islamabad, Pakistan
 
 ---
 
+## 🧠 Core Technologies
 
-## 🧪 Skills & Technologies  
+### Frontend
 
-### 🌐 Frontend  
-- HTML5 • CSS3 • Bootstrap • Tailwind • JavaScript (ES6+) • React.js  
+React.js • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Context API
 
-### ⚙️ Backend  
-- Node.js • Express.js 
+### Backend & APIs
 
-### 🗄️ Databases  
-- SQL • MySQL • Sequelize ORM • MongoDB  
+Node.js • Express.js • REST APIs • JWT Auth • WebSockets • WebRTC
 
-### 🛠️ Tools & Platforms  
-- Git • GitHub • Postman • VS Code • PyCharm • NPM  
+### Databases
+
+MongoDB • MySQL • Sequelize ORM • Query Optimization
+
+### Python & Automation
+
+Python • Selenium • OCR Pipelines • Web Scraping • n8n Automation
+
+### DevOps & Tools
+
+Git • GitHub • Docker • Linux VPS • Nginx • Postman • VS Code
 
 ---
 
-## 🚧 Projects  
+## 💼 Professional Experience
 
-### 🛒 E-Commerce Frontend (React + Redux)  
-**Tech Stack:** React.js • Redux Toolkit • Bootstrap  
-- Built a fully responsive e-commerce frontend with cart management, product filtering, and search functionality.  
+### Full Stack Developer — Global Link Pvt Ltd
 
-### 🌍 Social Media Platform (MERN + Sequelize)  
-**Tech Stack:** React • Node.js • Express • Sequelize • MySQL  
-- A social app with JWT authentication, profiles, posts, likes, comments, and friend requests.  
+📍 Rawalpindi, Pakistan | Apr 2025 – Present
 
-### 📊 Device Management Dashboard  
-**Tech Stack:** React (Context API) • Bootstrap • Node.js • Express • Sequelize (SQL) • Python (Tkinter Desktop App + EXE Installer)  
-- Built an interactive device dashboard with modals, tables, and full CRUD functionality.  
-- Implemented backend with Node.js, Express, and Sequelize for SQL database management.  
-- Added a Python-based desktop app to generate executable installers for device software.  
-    
+* Built and maintained production MERN SaaS applications
+* Developed scalable REST APIs and automation workflows
+* Engineered WebRTC real-time communication systems
+* Built AI-integrated chatbot and workflow automation tools
+* Designed OCR and legal document processing pipelines using Python
+* Managed Linux VPS deployments with Nginx and production hosting
+
+### MERN Stack Developer Intern — Morosoft Labs
+
+📍 Rawalpindi, Pakistan | Nov 2024 – Mar 2025
+
+* Developed full-stack MERN features in agile sprint environments
+* Integrated APIs between React frontend and Node.js backend
+* Debugged and optimized backend systems and database operations
+* Worked in collaborative Git-based development workflows
+
 ---
 
-## 📊 GitHub Stats & Graphs  
+## 🔥 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+**React • Redux Toolkit • Bootstrap**
+
+* Responsive frontend architecture
+* Cart management and filtering system
+* Optimized state management with Redux Toolkit
+
+---
+
+### 🌐 Social Media Platform
+
+**MERN • Sequelize • MySQL**
+
+* JWT authentication and role-based access
+* Posts, comments, likes, and friend request system
+* Structured backend architecture with scalable APIs
+
+---
+
+### 📊 Device Management Dashboard
+
+**React • Node.js • SQL • Python**
+
+* Full CRUD dashboard with advanced table management
+* Backend APIs with Sequelize and SQL optimization
+* Python desktop automation app with executable generation
+
+---
+
+### 🤖 AI Workflow Automation System
+
+**Python • n8n • Webhooks**
+
+* Automated messaging and workflow pipelines
+* AI chatbot integrations and event-driven processing
+* Production-ready automation handling large-scale operations
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShazaibSyed435&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShazaibSyed435&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShazaibSyed435&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShazaibSyed435&theme=tokyonight" />
 </p>
 
 ---
 
-## 📬 Get In Touch  
-- 📧 Email: **syedshazaibzaheer@gmail.com**  
-- 🌐 LinkedIn: [Syed Shazaib Zaheer](https://www.linkedin.com/in/syed-shazaib-zaheer-041750329/)  
+## 📫 Connect With Me
+
+* 📧 Email: [syedshazaib628@gmail.com](mailto:syedshazaib628@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/syed-shazaib-zaheer-041750329/
+* 🌐 GitHub: https://github.com/ShazaibSyed435
 
 ---
 
-## 🤝 Contributions & Collaborations  
-I’m always open to collaborating on **MERN stack projects**, contributing to **open source**, and learning from the developer community.  
-Let’s connect and build something amazing! 🚀  
+## 🤝 Open To
+
+* Full Stack Development Roles
+* Backend Engineering Opportunities
+* AI Automation & SaaS Projects
+* Freelance & Remote Collaboration
+
+---
+
+> “Focused on building real-world systems that scale, automate workflows, and solve business problems.”
