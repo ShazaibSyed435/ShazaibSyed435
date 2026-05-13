@@ -35,11 +35,11 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shazaib628">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:syedshazaib628@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
